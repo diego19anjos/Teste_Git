@@ -11,7 +11,7 @@ app = ctk.CTk()
 app.geometry("400x500")   
 app.title("Tela Login - Software Base")  
 
-# === FRAME CENTRAL ===
+# === FRAME CENTRAL DO SISTEMA===
 frame = ctk.CTkFrame(master=app, width=320, height=420, corner_radius=15)
 frame.place(relx=0.5, rely=0.5, anchor="center")  
 
