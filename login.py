@@ -6,7 +6,7 @@ from PIL import Image
 ctk.set_appearance_mode("light")   
 ctk.set_default_color_theme("green")  
 
-# === JANELA PRINCIPAL ===
+# === JANELA PRINCIPAL DO SISTEMA ===
 app = ctk.CTk()  
 app.geometry("400x500")   
 app.title("Tela Login - Software Base")  
